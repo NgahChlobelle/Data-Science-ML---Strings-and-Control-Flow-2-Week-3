@@ -47,6 +47,9 @@
 ### - .merge, .join, .drop,.groupby.
 
 # Screenshots of Results
+![image alt](https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/80488b7cefdf384b48d7a5ef36fc43d904612850/String%20and%20Control%20Flow%20-%20String%20Formating%201.PNG)
+
+
 
 # Key Observations and Lessons Learned
 ## - Strings Stay the Same: Methods like .replace() or .upper() don't change the original text; they create a new version that you must save to a variable.
