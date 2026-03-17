@@ -2,35 +2,35 @@
 ## The repository compose a comprehensive lab walkthrough covering Python core logic and data manipulation with Pandas. It serves as a technical reference for string processing, functional programming and relational data operations.
 
 # Objectives
-## The goal of this lab was to transition from basic python syntax (String/Control Flow into Functional Programming (Lambdas) and finally into relational Data Management using the Pandas library.
+## - The goal of this lab was to transition from basic python syntax (String/Control Flow into Functional Programming (Lambdas) and finally into relational Data Management using the Pandas library.
 
 # Tools Used
-## Language: Python
-## Libraries: Pandas (DataFrames and Series)
-## Environment: Jupyter Notebook
+## - Language: Python
+## - Libraries: Pandas (DataFrames and Series)
+## - Environment: Jupyter Notebook
 
 # Step-by-Step Process
 
 ## 1. String Engineering and Formatting
-### Case Normalization: Used .upper(), .lower() etc for data cleaning.
-### Data Validation and Proper Checking:
+### - Case Normalization: Used .upper(), .lower() etc for data cleaning.
+### - Data Validation and Proper Checking:
 #### - Used .isupper() and .islower() as 'case consistencycheckers' to verify if a string already meets specific formatting requirements before further processing
 #### - Applied boolean (True or False) checks like X .isalpha(), and .isdigit() to verify input types.                    
-### Structural Changes: Utilized .split(), and .Join to reformat raw text data.
-### Content Transformation: Applied .replace() to perform mass updates on specific substrings, ensuring uniformity across dataset labels or fixing formating errors.
-### Boundary Validation: Utilized .startswith() and .endswith to identify strings based on their prefixesor suffixes such as filtering file types or verifying protocol headers.
-### Interpolation: Implemented modern f-string and .format() for dynamic reporting.
+### - Structural Changes: Utilized .split(), and .Join to reformat raw text data.
+### - Content Transformation: Applied .replace() to perform mass updates on specific substrings, ensuring uniformity across dataset labels or fixing formating errors.
+### - Boundary Validation: Utilized .startswith() and .endswith to identify strings based on their prefixesor suffixes such as filtering file types or verifying protocol headers.
+### - Interpolation: Implemented modern f-string and .format() for dynamic reporting.
 
 ## 2. Logical Control Flow & Functions
-### Branching/Logical Gating: Built decision engines using if-elif-else blocks to decide whether a string needs to be cleaned or if it is already in the correct format.
-### Automation: Developed FOR and WHILE loops to handle iterative or iterable tasks.
-### Advanced Functions: Explored the 'Boss of Functions' using *args and **kwargs for flexible parameter handling.
-#### Functional Tools: Applied lambda functions within map(), filter() and reduce() for memory efficient data processing.
+### - Branching/Logical Gating: Built decision engines using if-elif-else blocks to decide whether a string needs to be cleaned or if it is already in the correct format.
+### - Automation: Developed FOR and WHILE loops to handle iterative or iterable tasks.
+### - Advanced Functions: Explored the 'Boss of Functions' using *args and **kwargs for flexible parameter handling.
+#### - Functional Tools: Applied lambda functions within map(), filter() and reduce() for memory efficient data processing.
 
 ## 3. Data Science with Pandas
-### Structure: Created 1D Series and 2D DataFrames.
-### Slicing: Extracted specific data subsets using indexing and Slicing techniques.
-### Relational Algebra: Executed complex data combinations:
+### - Structure: Created 1D Series and 2D DataFrames.
+### - Slicing: Extracted specific data subsets using indexing and Slicing techniques.
+### - Relational Algebra: Executed complex data combinations:
 #### - Concatenation: Stacking data vertically and horizontally.
 #### -Merging/Joins: implementing Inner, Outer, Left & Right joins
 
