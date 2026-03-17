@@ -48,10 +48,52 @@
 
 # Screenshots of Results
 ![image alt](https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/80488b7cefdf384b48d7a5ef36fc43d904612850/String%20and%20Control%20Flow%20-%20String%20Formating%201.PNG)
-
-
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%202.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%203.PNG)
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%204.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%205.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%206.PNG)
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%207.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%208.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%209.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2010.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2011.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2012.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2013.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2014.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2015.PNG)
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2016.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2017.PNG)
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2018.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2019.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2020.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2021.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2022.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2023.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2024.PNG)
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2025.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2026.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2027.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2028.PNG)
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2029.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2030.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2031.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2032.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2033.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2034.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2035.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2036.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2037.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2038.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2039.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2040.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2041.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2042.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2043.PNG )
+![image alt]( https://github.com/NgahChlobelle/Data-Science-ML---Strings-and-Control-Flow-2-Week-3/blob/847ab8a67714a80173b87704360d4fc2196ddb36/String%20and%20Control%20Flow%20-%20String%20Formating%2044.PNG )
 
 # Key Observations and Lessons Learned
+
 ## - Strings Stay the Same: Methods like .replace() or .upper() don't change the original text; they create a new version that you must save to a variable.
 ## - Checking vs. Changing: There is a big difference between methods that change text (like .lower()) and methods that just check if it's true or false (like .islower() or .isdigit()).
 ## - Better Searching: Using .startswith() and .endswith() is much easier and cleaner than trying to "slice" parts of a word to see if they match.
