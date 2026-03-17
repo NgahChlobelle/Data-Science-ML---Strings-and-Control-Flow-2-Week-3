@@ -94,15 +94,15 @@
 
 # Key Observations and Lessons Learned
 
-## - Strings Stay the Same: Methods like .replace() or .upper() don't change the original text; they create a new version that you must save to a variable.
-## - Checking vs. Changing: There is a big difference between methods that change text (like .lower()) and methods that just check if it's true or false (like .islower() or .isdigit()).
-## - Better Searching: Using .startswith() and .endswith() is much easier and cleaner than trying to "slice" parts of a word to see if they match.
-## - Easy Formatting: f-strings are the fastest and clearest way to plug variables into sentences compared to older methods.
-## - The "Boss" of Functions: Using *args and **kwargs lets you build powerful functions that can handle any number of inputs at once.
-## - Shortcuts with Lambda: Lambda functions work with map() and filter() to act as "mini-functions," saving you from writing long, repetitive code.
-## - Smart Logic: Using if-elif-else and loops (for and while) lets the computer make decisions and repeat tasks automatically.
-## - 1D vs. 2D Data: Knowing the difference between a Series (one column) and a DataFrame (a whole table) is key to finding the right data.
-## - Combining Data: Picking the right Join or Merge (Inner, Outer, Left, Right) is the most important step to make sure you don't lose data when putting tables together.
-## - Speed over Loops: Using Pandas to change data is much faster than using a "for loop" to go through rows one by one.
-## - Cleaning First: Most data work starts by fixing text (using .replace() or .split()) before you can do any math or matching.
-## - Organized Code: Importing modules keeps your workspace tidy and prevents different parts of your code from getting mixed up
+### - Strings Stay the Same: Methods like .replace() or .upper() don't change the original text; they create a new version that you must save to a variable.
+### - Checking vs. Changing: There is a big difference between methods that change text (like .lower()) and methods that just check if it's true or false (like .islower() or .isdigit()).
+### - Better Searching: Using .startswith() and .endswith() is much easier and cleaner than trying to "slice" parts of a word to see if they match.
+### - Easy Formatting: f-strings are the fastest and clearest way to plug variables into sentences compared to older methods.
+### - The "Boss" of Functions: Using *args and **kwargs lets you build powerful functions that can handle any number of inputs at once.
+### - Shortcuts with Lambda: Lambda functions work with map() and filter() to act as "mini-functions," saving you from writing long, repetitive code.
+### - Smart Logic: Using if-elif-else and loops (for and while) lets the computer make decisions and repeat tasks automatically.
+### - 1D vs. 2D Data: Knowing the difference between a Series (one column) and a DataFrame (a whole table) is key to finding the right data.
+### - Combining Data: Picking the right Join or Merge (Inner, Outer, Left, Right) is the most important step to make sure you don't lose data when putting tables together.
+### - Speed over Loops: Using Pandas to change data is much faster than using a "for loop" to go through rows one by one.
+### - Cleaning First: Most data work starts by fixing text (using .replace() or .split()) before you can do any math or matching.
+### - Organized Code: Importing modules keeps your workspace tidy and prevents different parts of your code from getting mixed up
